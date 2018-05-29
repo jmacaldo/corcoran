@@ -1,4 +1,4 @@
-## Coding Challenge for the Concoran Group :rocket:
+## Coding Challenge for the Corcoran Group :rocket:
 
 This is a simple demonstration of creating a restful API, consuming the data, and displaying the data on the DOM. This app is built on the React-Redux framework. The API's data resides in a PostgreSQL database that's hosted on Heroku. Data Sort functionality is achieved with  Sequelize's `[[order: "title", "ASC"]]` query parameter.
 
