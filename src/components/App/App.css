@@ -1,0 +1,11 @@
+body {
+  background: rgba(127,127,127,1)
+}
+
+.Well {
+  max-width: 90%;
+  margin: auto;
+  margin-top: 2em;
+  margin-bottom: 3em;
+  background: rgb(255, 255, 255);
+}
